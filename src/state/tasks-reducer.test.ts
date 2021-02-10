@@ -9,7 +9,7 @@ import {TasksStateType} from "../App";
 import {addTodolistAC, removeTodolistAC} from "./todolists-reducer";
 import {TaskType} from "../Todolist";
 
-// const startState: TasksStateType
+// const startState: TasksStateType = {}
 //
 // beforeEach(()=>{
 //     startState = {
